@@ -4,3 +4,6 @@ Here is the list of papers or working papers, with the fields they belong to, th
 
 ** Econometrics: 
 * Huang Wei, Zhang Ziyao, Liu Anran. From the difference-in-difference to the event study method [J]. Industrial Economic Review, 2022, (2): 17~36.
+
+** Political Economy:
+* Wang, Shaoda, and David Y. Yang. “Policy Experimentation in China: The Political Economy of Policy Learning.” Edited by JEFFREY MIRON. Cato Institute, 2022.
