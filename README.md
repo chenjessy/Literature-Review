@@ -7,3 +7,4 @@ Here is the list of papers or working papers, with the fields they belong to, th
 
 ** Political Economy:
 * Wang, Shaoda, and David Y. Yang. “Policy Experimentation in China: The Political Economy of Policy Learning.” Edited by JEFFREY MIRON. Cato Institute, 2022.
+* Daron Acemoglu, Simon Johnson, James A. Robinson, Chapter 6 Institutions as a Fundamental Cause of Long-Run Growth, Editor(s): Philippe Aghion, Steven N. Durlauf, Handbook of Economic Growth, Elsevier, Volume 1, Part A, 2005, Pages 385-472, ISSN 1574-0684, ISBN 9780444520418, https://doi.org/10.1016/S1574-0684(05)01006-3.
