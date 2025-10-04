@@ -19,9 +19,11 @@ Institutions are broadly endogenous, at least in part determined by society, or 
 * Economic institutions matter for economic growth, as they influence not only the size of the aggregate pie, but how this pie is divided among different groups and individuals.
 * Economic institutions are endogenous and determined as a collective choice of the society. Political power is the ultimate arbiter in the game between groups with opposing preferences.
 * Commitment problems, individuals who have political power cannot commit not to use it in their best interests, which causes inefficiencies.
-* Two types of political power: de jure (institutional) & de facto. The political institutions decide the de jure political power. With different institutions, the constraints on exercise are different. And the distribution of resources determines the de facto political power, which can be seen as the ability of solving collective action problem.
+* Two types of political power: de jure (institutional) & de facto. The political institutions decide the de jure political power. With different institutions, the constraints on exercise are different. And the distribution of resources determines the de facto political power, which can be seen as the ability of solving the collective action problem.
 * a hierarchy of institutions: political institutions->equilibrium economic institutions->economic outcomes.
+* Political power influences the evolution of political institutions, as they will choose to maintain the political institutions that give them political power. But de facto political power occasionally creates changes in political institutions.
 
+<img width="886" height="232" alt="Screenshot 2025-10-04 at 5 38 34 PM" src="https://github.com/user-attachments/assets/53f868ea-a804-47b9-a9eb-ee3854b65ef2" />
 
 
 
