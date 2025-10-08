@@ -63,6 +63,6 @@ Two problems: reverse causality and omitted variable bias.
 
   3.2 The colonial experiment
   
-  
+<img width="828" height="523" alt="Screenshot 2025-10-08 at 12 57 12 PM" src="https://github.com/user-attachments/assets/df940e43-11c2-4e85-b710-4b47bd2c2e0b" />
 
 
