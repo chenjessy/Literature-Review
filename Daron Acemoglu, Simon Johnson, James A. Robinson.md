@@ -62,7 +62,18 @@ Two problems: reverse causality and omitted variable bias.
   By the 1980s, the communist economic policies in North Korea were not working. The continued efforts of the leadership to cling to these policies and to power can only be explained by those leaders wishing to look after their own interests at the expense of the population at large.
 
   3.2 The colonial experiment
+  The reversal trend:
   
 <img width="828" height="523" alt="Screenshot 2025-10-08 at 12 57 12 PM" src="https://github.com/user-attachments/assets/df940e43-11c2-4e85-b710-4b47bd2c2e0b" />
+
+  But before 1500, when European colonization had no effect on any of these societies, the relationships for urbanization plotting separately the relationship between urbanization in 1000 and in 1500 for the samples of these countries. Both figures show persistence, not reversal.
+
+  <img width="781" height="538" alt="Screenshot 2025-10-08 at 1 02 17 PM" src="https://github.com/user-attachments/assets/968f4eb9-efb5-485f-9f51-80c2f8a5e338" />
+  
+  <img width="666" height="522" alt="Screenshot 2025-10-08 at 1 02 39 PM" src="https://github.com/user-attachments/assets/5ad8b796-b4eb-42a3-a6a3-329185d6d8e0" />
+  
+  The previously-poor colonies surpassed the former highly-urbanized colonies starting in the late eighteenth and early nineteenth centries, went hand in hand with industrialization. There was more industry in India in 1750 than in the US. By 1860, the US and British colonies with relatively good economic institutions began to move ahead rapidly, and by 1953, a huge gap had opened up.
+  <img width="684" height="547" alt="Screenshot 2025-10-08 at 2 18 06 PM" src="https://github.com/user-attachments/assets/6d68af78-a397-4cfe-a86e-4e31c678c6e2" />
+  <img width="655" height="545" alt="Screenshot 2025-10-08 at 2 18 23 PM" src="https://github.com/user-attachments/assets/b55d6bbf-4257-403b-986a-eb5ebe881696" />
 
 
