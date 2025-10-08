@@ -85,7 +85,14 @@ Two problems: reverse causality and omitted variable bias.
 
   In places with a large indigenous population, Europeans could exploit the population, be it in the form of taxes, tributes or employment as forced labor in mines or plantations. A more developed civilization and a denser population structure made it more profitable for the Europeans to introduce worse economic institutions. In contrtast, in places with little to extract, and in sparsely-settled places and low urbanization areas, where the Europeans themselves became the majority of the population, it was in their interests to introduce economic institutions protecting their own property rights.
 
-  IV: disease environment 200 or more years ago (mortality rates, Curtin(1989,1998) & Gutierrez (1986)), which affects outcomes today only through its effect on institutions today.
+  IV: disease environment 200 or more years ago (mortality rates, Curtin(1989,1998) & Gutierrez (1986)), which affects outcomes today only through its effect on institutions today. A bivariate regression has an $R^2$ of 0.26, which shows that there were very large differences in European mortality. If two countries both lie on the regression line, then almost the entire difference in incomes per capita between them can be explained by the differences in the security of property rights.
   
+  <img width="762" height="507" alt="Screenshot 2025-10-08 at 3 52 02 PM" src="https://github.com/user-attachments/assets/15ed7aaf-6dbd-48b7-9361-a5c854810512" />
+
+  <img width="752" height="467" alt="Screenshot 2025-10-08 at 3 52 15 PM" src="https://github.com/user-attachments/assets/aea3ac0b-9eee-4dab-8499-8c9afe4281a6" />
+
+  The disease environment also explains why there are strong correlations between geographical variables such as latitude and income per-capita. Europeans did not have immunity to tropical diseases during the colonial period so the settler colonies tended to be created in the temperate latitudes. Once economic institutions are properly controlled for, these relationships go away. There is no causal effect of geography on prosperity today, though it may have been important historically in shaping economic institutions. Also for culture, once they control properly for the effects of economic institutions, neither the identity of the colonial power, nor the contemporary fraction of Europeans in the population, nor the proportions of the populations of various religions, are dsignificant deyerminants of income per capita (2001). 
+
   
 
+  
