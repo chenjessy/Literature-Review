@@ -1,3 +1,5 @@
+This is a document explaining the importance of institutions in shaping different economic outcomes. The authors' are well-known economists, but their tones of telling stories in this paper are more like political scientist.
+
 The authors first document the empirical importance of institutions by using two quasi-natural experiments: the division of Korea into two parts and the colonization of much of the world by European powers. In the model, the two state variables are political institutions and the distribution of resources.
 
 When thinking about growth, the differences in growth rate across countries are important. Some recent contributions focus on economic policies, such as taxes, subsidies, barriers to technology adoption, and human capital policies. But they don't give an explanation for the differences across countries.
@@ -25,13 +27,42 @@ Institutions are broadly endogenous, at least in part determined by society, or 
 
 <img width="886" height="232" alt="Screenshot 2025-10-04 at 5 38 34 PM" src="https://github.com/user-attachments/assets/53f868ea-a804-47b9-a9eb-ee3854b65ef2" />
 
+Example for institution change: Civil war of 1642 and the Glorious Revolution of 1688 in England. Dutch Revolt in the Netherlands. The land market and trade help merchants and gentry accumulate the fortune to feed the army. But two key questions: There are conflicts between the monarchy and the merchants. But why does the monarchy not set up secure property rights to encourage economic growth and tax some of the benefits? Why did the merchants and gentry use their de facto political power to change political institutions rather than just implement the policies they wanted?-——commitment
 
+Definition of good economic institutions: provide secure property rights for a broad cross-section of society.
 
+2. Fundamental causes of income differences
+   2.1 Three fundamental causes
+   2.1.1 Economic institutions: consist of an inter-related cluster of things. Enforcement of property rights for a broad cross-section of society. And some degree of equality of opportunity in society.
+   * stable property rights
+   * perfection and spread of markets
+   * political economy-redistributive effects
+   2.1.2 Geography: nature that determines both the preferences and the opportunity set
+   * climate-work effort, incentives, productivity
+   * geography-technology available to a society, especially in agriculture. same as Diamond (1997).
+   * disease burden
+   2.1.3 Culture: different shared experiences or different religions. determine values, preferences, and beliefs.
+   * influence equilibrium outcomes for a given set of institutions.
+   * link between religions and development-weber(1930) about the Protestant reformation and the rise of Calvinism, emphasize hard work, thrift, saving.
+   * particular cultural endowments-Banfield (1958) poverty of southern Italy due to the fact that people adopt a culture of "amoral familiarism"
 
+3. Institutions matter
+   
+<img width="826" height="520" alt="Screenshot 2025-10-08 at 10 06 25 AM" src="https://github.com/user-attachments/assets/9bc7035f-5571-4805-a318-7af6d8536d8e" />
 
+Two problems: reverse causality and omitted variable bias.
 
+<img width="859" height="515" alt="Screenshot 2025-10-08 at 10 26 27 AM" src="https://github.com/user-attachments/assets/fcb7b06b-4ce2-41de-acff-d457f225636f" />
 
+  3.1 The Korean experiment
+  Both countries share the same geographic possibilities in terms of access to markets and the cost of transportation. And at the time of separation, North and South Korea had the same income per capita. So any differences in economic performance can plausibly be attributed to differences in institutions.
+  
+<img width="815" height="487" alt="Screenshot 2025-10-08 at 11 26 24 AM" src="https://github.com/user-attachments/assets/fcec85e2-6c44-4233-85a1-c54038fee0a5" />
 
+  By the 1980s, the communist economic policies in North Korea were not working. The continued efforts of the leadership to cling to these policies and to power can only be explained by those leaders wishing to look after their own interests at the expense of the population at large.
 
+  3.2 The colonial experiment
+  
+  
 
 
