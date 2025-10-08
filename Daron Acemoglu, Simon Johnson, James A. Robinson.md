@@ -62,7 +62,7 @@ Two problems: reverse causality and omitted variable bias.
   By the 1980s, the communist economic policies in North Korea were not working. The continued efforts of the leadership to cling to these policies and to power can only be explained by those leaders wishing to look after their own interests at the expense of the population at large.
 
   3.2 The colonial experiment
-  The reversal trend:
+  The reversal of fortune trend:
   
 <img width="828" height="523" alt="Screenshot 2025-10-08 at 12 57 12 PM" src="https://github.com/user-attachments/assets/df940e43-11c2-4e85-b710-4b47bd2c2e0b" />
 
@@ -76,4 +76,16 @@ Two problems: reverse causality and omitted variable bias.
   <img width="684" height="547" alt="Screenshot 2025-10-08 at 2 18 06 PM" src="https://github.com/user-attachments/assets/6d68af78-a397-4cfe-a86e-4e31c678c6e2" />
   <img width="655" height="545" alt="Screenshot 2025-10-08 at 2 18 23 PM" src="https://github.com/user-attachments/assets/b55d6bbf-4257-403b-986a-eb5ebe881696" />
 
+  Other things equal, the higher the initial population density or the greater initial urbanization, the worse were subsequent institutions. In densely-settled and relatively-developed places, the Europeans are interested in extracting the resources rather than respecting the property rights of the majority.
+
+  <img width="726" height="481" alt="Screenshot 2025-10-08 at 2 58 18 PM" src="https://github.com/user-attachments/assets/dd9bcecf-63d4-4e65-93a1-1131c533e632" />
+  <img width="715" height="525" alt="Screenshot 2025-10-08 at 2 58 29 PM" src="https://github.com/user-attachments/assets/3b8ffe0f-e7fb-4782-909c-0c0a3c1a5a08" />
+  
+  They conclude that economic institutions are more important when there are major new investment opportunities.
+
+  In places with a large indigenous population, Europeans could exploit the population, be it in the form of taxes, tributes or employment as forced labor in mines or plantations. A more developed civilization and a denser population structure made it more profitable for the Europeans to introduce worse economic institutions. In contrtast, in places with little to extract, and in sparsely-settled places and low urbanization areas, where the Europeans themselves became the majority of the population, it was in their interests to introduce economic institutions protecting their own property rights.
+
+  IV: disease environment 200 or more years ago (mortality rates, Curtin(1989,1998) & Gutierrez (1986)), which affects outcomes today only through its effect on institutions today.
+  
+  
 
