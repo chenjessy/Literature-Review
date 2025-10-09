@@ -97,10 +97,17 @@ Two problems: reverse causality and omitted variable bias.
 
 5. Why do institutions differ
    5.1 The efficient institutions view-the Political Coase Theorem
-   By Political Coase Theorem (Acemoglu (2003)), economic institutions are chosen efficiently, so economic institutions cannot be the fundamental cause of income differences. The only way of rationalize these differences is to think of economic institutions varying for reasons other than the underlying needs of societies.
+   By Political Coase Theorem (Acemoglu (2003)), economic institutions are chosen efficiently, so economic institutions cannot be the fundamental cause of income differences. Efficiency arises because individuals ultimately calculate according to social costs and benefits. The only way of rationalize these differences is to think of economic institutions varying for reasons other than the underlying needs of societies.
    5.2 The ideology view- Modified Political Coase Theorem
    If different societies have different beliefs about what is socially efficient they can rationally choose different economic institutions. But can differences in beliefs explain the differences between South and North Korea? Maybe. But by the 1980s it was clear that the communist economic policies in the North were not working. The continued effort of the leadership to cling to these policies and power can only be explained by leaders looking after their own interests at the expense of the population at large. The conclusion is that ideology often play important roles but the authors don't believe that a satisfactory theory of institutional differences can be founded on differences in ideology.
-   
+   5.3 The incidental institutions view
+   Instead of thinking of institutions as choices, they can be the by-product or unintended consequence of other social interactions or historical accidents.
+   Democracy emerged with strong middle class since the agriculture had commercialized. Facism arose since there were weak middle classes and they coalesce with landowners. Communist revolution emerged when there is no middle class nor commercialized agriculture.
+   From this view, it explains why there is possibility that a cociety may end up with institutions that do not maximize income or growth.
+   Resource allocation is also a concern. Legal origins are also historical accidents, mostly related to the incidence of European colonialism.
+   The authors do not think accidents can fully explain the differences in institutions because the accidents can not explain why these institutions are persistent.
+   5.4 The social conflict view
+   Economic and political institutions are not always chosen by the whole society and not for the benefit of the whole society, but by the groups that control political power at the time, perhaps as a result of conflict with other groups.
    
    
 
