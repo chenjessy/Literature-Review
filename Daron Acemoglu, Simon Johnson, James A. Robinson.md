@@ -91,8 +91,17 @@ Two problems: reverse causality and omitted variable bias.
 
   <img width="752" height="467" alt="Screenshot 2025-10-08 at 3 52 15 PM" src="https://github.com/user-attachments/assets/aea3ac0b-9eee-4dab-8499-8c9afe4281a6" />
 
-  The disease environment also explains why there are strong correlations between geographical variables such as latitude and income per-capita. Europeans did not have immunity to tropical diseases during the colonial period so the settler colonies tended to be created in the temperate latitudes. Once economic institutions are properly controlled for, these relationships go away. There is no causal effect of geography on prosperity today, though it may have been important historically in shaping economic institutions. Also for culture, once they control properly for the effects of economic institutions, neither the identity of the colonial power, nor the contemporary fraction of Europeans in the population, nor the proportions of the populations of various religions, are dsignificant deyerminants of income per capita (2001). 
+  The disease environment also explains why there are strong correlations between geographical variables such as latitude and income per capita. Europeans did not have immunity to tropical diseases during the colonial period so the settler colonies tended to be created in the temperate latitudes. Once economic institutions are properly controlled for, these relationships go away. There is no causal effect of geography on prosperity today, though it may have been important historically in shaping economic institutions. Also for culture, once they control properly for the effects of economic institutions, neither the identity of the colonial power, nor the contemporary fraction of Europeans in the population, nor the proportions of the populations of various religions, nor the presence of Europeans, are significant determinants of income per capita (2001). So it is the institutions that cause the income differences and long-run growth.
 
-  
+  <img width="743" height="527" alt="Screenshot 2025-10-08 at 4 31 42 PM" src="https://github.com/user-attachments/assets/8b039b0c-7c6a-4b53-a7cd-20d067064f97" />
+
+5. Why do institutions differ
+   5.1 The efficient institutions view-the Political Coase Theorem
+   By Political Coase Theorem (Acemoglu (2003)), economic institutions are chosen efficiently, so economic institutions cannot be the fundamental cause of income differences. The only way of rationalize these differences is to think of economic institutions varying for reasons other than the underlying needs of societies.
+   5.2 The ideology view- Modified Political Coase Theorem
+   If different societies have different beliefs about what is socially efficient they can rationally choose different economic institutions. But can differences in beliefs explain the differences between South and North Korea? Maybe. But by the 1980s it was clear that the communist economic policies in the North were not working. The continued effort of the leadership to cling to these policies and power can only be explained by leaders looking after their own interests at the expense of the population at large. The conclusion is that ideology often play important roles but the authors don't believe that a satisfactory theory of institutional differences can be founded on differences in ideology.
+   
+   
+   
 
   
