@@ -107,7 +107,9 @@ Two problems: reverse causality and omitted variable bias.
    Resource allocation is also a concern. Legal origins are also historical accidents, mostly related to the incidence of European colonialism.
    The authors do not think accidents can fully explain the differences in institutions because the accidents can not explain why these institutions are persistent.
    5.4 The social conflict view
-   Economic and political institutions are not always chosen by the whole society and not for the benefit of the whole society, but by the groups that control political power at the time, perhaps as a result of conflict with other groups.
+   Economic and political institutions are not always chosen by the whole society and not for the benefit of the whole society, but by the groups that control political power at the time, perhaps as a result of conflict with other groups. In other words, equilibrium economic institutions will not be those that maximize the size of the overall pie, but the slice of the pie taken by the powerful groups.
+   North (1981) argued in "A Neoclassical Theory of the State" that the agents who controlled the state should be modeled as self-interested. The set of property rights that they would choose for society would be those that maximize their payoff, and because of "transaction costs", these would not necessarily be the set that maximized social welfare. The authors here augue that commitment problems are the transaction costs that are at the root of the divergence.
+   
    
    
 
