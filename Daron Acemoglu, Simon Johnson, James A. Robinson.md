@@ -33,7 +33,7 @@ Definition of good economic institutions: provide secure property rights for a b
 
 2. Fundamental causes of income differences
    2.1 Three fundamental causes
-   2.1.1 Economic institutions: consist of an inter-related cluster of things. Enforcement of property rights for a broad cross-section of society. And some degree of equality of opportunity in society.
+   2.1.1 Economic institutions: consist of an interrelated cluster of things. Enforcement of property rights for a broad cross-section of society. And some degree of equality of opportunity in society.
    * stable property rights
    * perfection and spread of markets
    * political economy-redistributive effects
@@ -43,8 +43,8 @@ Definition of good economic institutions: provide secure property rights for a b
    * disease burden
    2.1.3 Culture: different shared experiences or different religions. determine values, preferences, and beliefs.
    * influence equilibrium outcomes for a given set of institutions.
-   * link between religions and development-weber(1930) about the Protestant reformation and the rise of Calvinism, emphasize hard work, thrift, saving.
-   * particular cultural endowments-Banfield (1958) poverty of southern Italy due to the fact that people adopt a culture of "amoral familiarism"
+   * link between religions and development-weber(1930) about the Protestant Reformation and the rise of Calvinism, emphasizes hard work, thrift, and saving.
+   * particular cultural endowments-Banfield (1958), poverty of southern Italy due to the fact that people adopt a culture of "amoral familiarism"
 
 3. Institutions matter
    
@@ -91,26 +91,43 @@ Two problems: reverse causality and omitted variable bias.
 
   <img width="752" height="467" alt="Screenshot 2025-10-08 at 3 52 15 PM" src="https://github.com/user-attachments/assets/aea3ac0b-9eee-4dab-8499-8c9afe4281a6" />
 
-  The disease environment also explains why there are strong correlations between geographical variables such as latitude and income per capita. Europeans did not have immunity to tropical diseases during the colonial period so the settler colonies tended to be created in the temperate latitudes. Once economic institutions are properly controlled for, these relationships go away. There is no causal effect of geography on prosperity today, though it may have been important historically in shaping economic institutions. Also for culture, once they control properly for the effects of economic institutions, neither the identity of the colonial power, nor the contemporary fraction of Europeans in the population, nor the proportions of the populations of various religions, nor the presence of Europeans, are significant determinants of income per capita (2001). So it is the institutions that cause the income differences and long-run growth.
+  The disease environment also explains why there are strong correlations between geographical variables such as latitude and income per capita. Europeans did not have immunity to tropical diseases during the colonial period, so the settler colonies tended to be created in the temperate latitudes. Once economic institutions are properly controlled for, these relationships go away. There is no causal effect of geography on prosperity today, though it may have been important historically in shaping economic institutions. Also for culture, once they control properly for the effects of economic institutions, neither the identity of the colonial power, nor the contemporary fraction of Europeans in the population, nor the proportions of the populations of various religions, nor the presence of Europeans, are significant determinants of income per capita (2001). So it is the institutions that cause the income differences and long-run growth.
 
   <img width="743" height="527" alt="Screenshot 2025-10-08 at 4 31 42 PM" src="https://github.com/user-attachments/assets/8b039b0c-7c6a-4b53-a7cd-20d067064f97" />
 
 5. Why do institutions differ
-   5.1 The efficient institutions view-the Political Coase Theorem
-   By Political Coase Theorem (Acemoglu (2003)), economic institutions are chosen efficiently, so economic institutions cannot be the fundamental cause of income differences. Efficiency arises because individuals ultimately calculate according to social costs and benefits. The only way of rationalize these differences is to think of economic institutions varying for reasons other than the underlying needs of societies.
+   5.1 The efficient institutions view - Political Coase Theorem
+   By the Political Coase Theorem (Acemoglu (2003)), economic institutions are chosen efficiently, so economic institutions cannot be the fundamental cause of income differences. Efficiency arises because individuals ultimately calculate according to social costs and benefits. The only way of rationalize these differences is to think of economic institutions varying for reasons other than the underlying needs of societies.
    5.2 The ideology view- Modified Political Coase Theorem
-   If different societies have different beliefs about what is socially efficient they can rationally choose different economic institutions. But can differences in beliefs explain the differences between South and North Korea? Maybe. But by the 1980s it was clear that the communist economic policies in the North were not working. The continued effort of the leadership to cling to these policies and power can only be explained by leaders looking after their own interests at the expense of the population at large. The conclusion is that ideology often play important roles but the authors don't believe that a satisfactory theory of institutional differences can be founded on differences in ideology.
+   If different societies have different beliefs about what is socially efficient, they can rationally choose different economic institutions. But can differences in beliefs explain the differences between South and North Korea? Maybe. But by the 1980s, it was clear that the communist economic policies in the North were not working. The continued effort of the leadership to cling to these policies and power can only be explained by leaders looking after their own interests at the expense of the population at large. The conclusion is that ideology often plays important roles, but the authors don't believe that a satisfactory theory of institutional differences can be founded on differences in ideology.
    5.3 The incidental institutions view
    Instead of thinking of institutions as choices, they can be the by-product or unintended consequence of other social interactions or historical accidents.
-   Democracy emerged with strong middle class since the agriculture had commercialized. Facism arose since there were weak middle classes and they coalesce with landowners. Communist revolution emerged when there is no middle class nor commercialized agriculture.
-   From this view, it explains why there is possibility that a cociety may end up with institutions that do not maximize income or growth.
+   Democracy emerged with a strong middle class since agriculture had been commercialized. Facism arose since there were weak middle classes and they coalesce with landowners. The Communist Revolution emerged when there was no middle class or commercialized agriculture.
+   From this view, it explains why there is possibility that a society may end up with institutions that do not maximize income or growth.
    Resource allocation is also a concern. Legal origins are also historical accidents, mostly related to the incidence of European colonialism.
    The authors do not think accidents can fully explain the differences in institutions because the accidents can not explain why these institutions are persistent.
    5.4 The social conflict view
    Economic and political institutions are not always chosen by the whole society and not for the benefit of the whole society, but by the groups that control political power at the time, perhaps as a result of conflict with other groups. In other words, equilibrium economic institutions will not be those that maximize the size of the overall pie, but the slice of the pie taken by the powerful groups.
-   North (1981) argued in "A Neoclassical Theory of the State" that the agents who controlled the state should be modeled as self-interested. The set of property rights that they would choose for society would be those that maximize their payoff, and because of "transaction costs", these would not necessarily be the set that maximized social welfare. The authors here augue that commitment problems are the transaction costs that are at the root of the divergence.
+   North (1981) argued in "A Neoclassical Theory of the State" that the agents who controlled the state should be modeled as self-interested. The set of property rights that they would choose for society would be those that maximize their payoff, and because of "transaction costs", these would not necessarily be the set that maximized social welfare. The authors here argue that commitment problems are the transaction costs that are at the root of the divergence.
+   The difference between the social conflict view and
+   *ideological view: social conflict can lead to choices of economic institutions which cause underdevelopment even when all agents have common knowledge that this is so.
+   *incidental view: institutional choices that cause underdevelopment are conscious choices.
+   *efficient view: it doesn't assume that institutions are always efficient.
    
-   
+6. Sources of inefficiencies
+   Commitment problems: When the problem comes to institutional choices, there is no impartial third party that can be trusted to enforce contracts. This is the origin of the commitment problem in politics.
+   As long as there is a dictatorship, there is no higher authority to make the dictator stick to his promise.
+   6.1 Hold-up
+   With hold-up problems, there are no secure property rights for groups without political power. Without such protection, productive investments are not undertaken, and opportunities for economic growth go unexploited.
+   6.2 Political losers
+   The political elite evaluate every potential economic change not only by its economic consequences, such as growth and distribution, but also by its political consequences. Any economic change that will erode the elite's political power is likely to reduce their economic rents in the long run.
+   The fear of losing political power can lead various groups of political and economic elites to oppose institutional change and also the introduction of new technologies. 
+   6.3 Economic losers
+   A move from a bad to a better set of economic institutions will make some people or groups worse off, and will not be Pareto improving. Such groups will have an incentive to block or impede such institutional changes even if they benefit the whole society in some aggregate sense.
+   This can be seen earliest in trade literature: Individuals invested in sectors in which an economy does not enjoy a comparative advantage will lose economically from free trade.
+   This problem is also due to commitment.
+   Economic losers vs. political losers, which is worse? If institutional change hurts the political elites' rents, why don't they use political power to redistribute the aggregate gain brought by the institutional change? It must be that these groups of elites losing economically also experience a reduction in their political power, making redistribution impossible. So problems of political losers are more important than economic losers.
+   6.4  The inseparability of efficiency and distribution
    
 
   
