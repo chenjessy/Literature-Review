@@ -32,11 +32,14 @@ Example for institution change: Civil war of 1642 and the Glorious Revolution of
 Definition of good economic institutions: provide secure property rights for a broad cross-section of society.
 
 2. Fundamental causes of income differences
+   
    2.1 Three fundamental causes
+   
    2.1.1 Economic institutions: consist of an interrelated cluster of things. Enforcement of property rights for a broad cross-section of society. And some degree of equality of opportunity in society.
    * stable property rights
    * perfection and spread of markets
    * political economy-redistributive effects
+     
    2.1.2 Geography: nature that determines both the preferences and the opportunity set
    * climate-work effort, incentives, productivity
    * geography-technology available to a society, especially in agriculture. same as Diamond (1997).
@@ -46,7 +49,7 @@ Definition of good economic institutions: provide secure property rights for a b
    * link between religions and development-weber(1930) about the Protestant Reformation and the rise of Calvinism, emphasizes hard work, thrift, and saving.
    * particular cultural endowments-Banfield (1958), poverty of southern Italy due to the fact that people adopt a culture of "amoral familiarism"
 
-3. Institutions matter
+4. Institutions matter
    
 <img width="826" height="520" alt="Screenshot 2025-10-08 at 10 06 25 AM" src="https://github.com/user-attachments/assets/9bc7035f-5571-4805-a318-7af6d8536d8e" />
 
