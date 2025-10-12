@@ -178,9 +178,16 @@ Two problems: reverse causality and omitted variable bias.
 
 7. The social conflict view in action
    7.1 Labor Market
-   The countries that had made the transition away from feudalism most completely developed most rapidly. The Black Death greatly increased the bargaining power of peasants and allowed them to negotiate and end feudal obligations. There is general agreement that the decline fo feudalism and the transformation fo European labor markets were intimately related to the political power of the key groups with opposing interests, the peasants and the lords. Whether the peasants or the lords had more  political power determined whether serfdom declined or became stronger. 
    
+   The countries that had made the transition away from feudalism most completely developed most rapidly. The Black Death greatly increased the bargaining power of peasants and allowed them to negotiate and end feudal obligations. There is general agreement that the decline fo feudalism and the transformation fo European labor markets were intimately related to the political power of the key groups with opposing interests, the peasants and the lords. Whether the peasants or the lords had more  political power determined whether serfdom declined or became stronger.
 
+   7.2 Financial market
+   
+   Despite the fact that economic efficiency was hurt by regulations, those with political power were able to sustain these regulations and gain profits. For the banking industry in US, there is a competitive market among themselves and competitions among states, so the system with banks evolved as monopolies with regulations aimed at maximizing revrnues for the state governments cannot last. But in Mexico, market regulation was aimed not at solving the market failures. Only firms with personal contacts with banks were able to get loans. Although these firms are less profitable and less technically efficient than their competitors.
+
+   7.3 Regulation of prices
+
+   
    
 
   
