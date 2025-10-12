@@ -162,7 +162,25 @@ Two problems: reverse causality and omitted variable bias.
    Economic losers vs. political losers, which is worse? If institutional change hurts the political elites' rents, why don't they use political power to redistribute the aggregate gain brought by the institutional change? It must be that these groups of elites losing economically also experience a reduction in their political power, making redistribution impossible. So problems of political losers are more important than economic losers.
    
    6.4  The inseparability of efficiency and distribution
-   Commitment problems can cause hold-ups, lower incentive to invest, and then lower growth. So the ones who hold the political power voluntarily give away their power to create political institutions that can restrict their power. So that they can get more distriution from a higher growth. Balance between a big slice of a small pie and a small piece of a large pie.
+   
+   Institutional change has significant distributional effects. Commitment problems can cause hold-ups, lower incentive to invest, and lower growth. So the ones who hold the political power voluntarily give away their power to create political institutions that can restrict their power. So that they can get more distribution from higher growth. Balance between a big slice of a small pie and a small piece of a large pie.
+
+   6.5 Comparative statics - The colonical experience
+
+   * When there is a balance of political power or seperation of power between different groups, are more likely to engender an environment protecting the property rights of a broad cross-section of society. - For the colonies with high population density, extractive systems of production, and few Europeans, the political power are concentrated in the hands of the elite. They build a state apparatus designed to use coercion against the majority of the population.
+   * When political power is in the hands of a relatively broad group containing those with access to the most important investment opportunities, economic institutions are more likely to protecting the rights of a broad cross-section. - For the colonies that Europeans did not settle and with large indigenous population, a good economic institution would have made it more difficult for them to extract resources from the rest of the society.
+   * When there are only limited rents that power holders can extract from the rest of the society, the good economic institutions are more likely to arise. - In colonies with more wealth, resources, and a high density of indigenous population to be exploited, an economic institution that doesn't provide any protection for the majority of the population is more likely to be opted for, to facilitate the extraction of resources by the Europeans.
+   * Institutional reforms that do not threaten the power of incumbents are more likely to succeed. - The colonies didn't change their economic institutions when there were opportunities because a change in the economic system would turn the incumbent elites into political losers.
+
+   6.6 Reassessment of the social conflict view
+
+   Some economic institutions will promote growth, but they will not necessarily benefit all groups in society. While alternative economic institutions may induce econmoic stagnation, but may nevertheless enrich some groups.
+
+7. The social conflict view in action
+   7.1 Labor Market
+   The countries that had made the transition away from feudalism most completely developed most rapidly. The Black Death greatly increased the bargaining power of peasants and allowed them to negotiate and end feudal obligations. There is general agreement that the decline fo feudalism and the transformation fo European labor markets were intimately related to the political power of the key groups with opposing interests, the peasants and the lords. Whether the peasants or the lords had more  political power determined whether serfdom declined or became stronger. 
+   
+
    
 
   
