@@ -162,6 +162,7 @@ Two problems: reverse causality and omitted variable bias.
    Economic losers vs. political losers, which is worse? If institutional change hurts the political elites' rents, why don't they use political power to redistribute the aggregate gain brought by the institutional change? It must be that these groups of elites losing economically also experience a reduction in their political power, making redistribution impossible. So problems of political losers are more important than economic losers.
    
    6.4  The inseparability of efficiency and distribution
+   Commitment problems can cause hold-ups, lower incentive to invest, and then lower growth. So the ones who hold the political power voluntarily give away their power to create political institutions that can restrict their power. So that they can get more distriution from a higher growth. Balance between a big slice of a small pie and a small piece of a large pie.
    
 
   
