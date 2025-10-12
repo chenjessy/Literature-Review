@@ -187,7 +187,10 @@ Two problems: reverse causality and omitted variable bias.
 
    7.3 Regulation of prices
 
-   
+   The political structure is important as it can render some groups pivotal by giving them the power over the political fortunes of those with ambition for office and enabling them to make or break government. KNFU in Kenya helps to create a framework of public policies that provides an economic environment favorable to all farmers. This is due to who controlled the marketing board. In Kenya, farmers were not smallholders. But in Ghana and Nigeria, the full burden of the drop in price was passed to the producers. The government-controlled marketing boards systematically pay farmers prices for their crops much below world levels. The agents and the government accumulate funds in the agricultural sector. Governments here face a dilemma: urban unrest. Their response has been to try to appease urban interests not by offering higher wages but by advocating policies aimed at reducing the cost of living, and in particular the cost of food.
+
+   7.4 Political power and economic institutions
+
    
 
   
