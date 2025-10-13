@@ -191,6 +191,25 @@ Two problems: reverse causality and omitted variable bias.
 
    7.4 Political power and economic institutions
 
-   
+   Feudalism did not end in England for incidental or ideological reasons, but because those who were controlled and impoverished by feudal regulations struggled to abolish them.
 
-  
+8. A theory of institutions
+
+   8.1 Sources of political power
+
+   * de jure political power are allocated by political institutions
+   * de facto political power accrues to individuals or groups if they can solve the collective action problem, create riots, revolts, or demonstrations, own guns, etc. The ability of using force is one example of de facto political power.
+   
+   8.2 Political power and political institutions
+
+   Political institutions are an important source of political power. 
+
+9. The theory in action
+
+   9.1 Rise of constitutional monarchy and economic growth in early modern Europe
+
+   Rise of the constitutional monarchy in Europe:
+   * England: began in 1215 when King John was forced by his barons to sign the Magna Carta. The Tudor monarchs have attempted to build an absolutist monarchy. They failed because of the parliament.
+   * French: A more powerful absolutist monarchy appeared with very few controls. The feudal French parliaments, the Estates General, were not summoned between 1614 and 1788, just before the Revolution.
+   * The Netherlands is similar to England. Because they developed limited, constitutional government. This form of government led to secure property rights, a favorable investment climate and had rapid multiplier effects on other economic institutions, particularly financial markets. 
+   * Spain and Portugal are similar to France.
