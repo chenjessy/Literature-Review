@@ -209,7 +209,19 @@ Two problems: reverse causality and omitted variable bias.
    9.1 Rise of constitutional monarchy and economic growth in early modern Europe
 
    Rise of the constitutional monarchy in Europe:
-   * England: began in 1215 when King John was forced by his barons to sign the Magna Carta. The Tudor monarchs have attempted to build an absolutist monarchy. They failed because of the parliament.
+   * England: began in 1215 when King John was forced by his barons to sign the Magna Carta. The Tudor monarchs have attempted to build an absolutist monarchy. They failed because of the parliament. The merchant community's strength is important.
    * French: A more powerful absolutist monarchy appeared with very few controls. The feudal French parliaments, the Estates General, were not summoned between 1614 and 1788, just before the Revolution.
    * The Netherlands is similar to England. Because they developed limited, constitutional government. This form of government led to secure property rights, a favorable investment climate and had rapid multiplier effects on other economic institutions, particularly financial markets. 
    * Spain and Portugal are similar to France.
+   
+   9.2 Rise of electoral democracy in Britain
+
+   At first, political monopoly was challenged by the disenfranchised who engaged in collective action to force political change. The elites used military to repress, economic concessions to buy off, or give political power to the previously disenfranchised, which become the precedents of modern democracy.
+
+   The threat of social disorder was the main driving force behind the creation of democracy in Britain. The industrialization created rising inequality and urbanization increased the de facto power of the disenfranchised. They demand political rights and the changes in political institutions that would allocate future political power to them. These changes are the direct cause of changes in economic institutions, with major distributional implications, including the fall in inequality.
+
+   Democracy did not emerge from the voluntary acts of an enlightened elite, it was forced on the elite because of the threat of revolution. Democratization occured as a way of making credible commitments to the disenfranchised. It allocate de jure political power away from the elites to the masses. Democratization was a way of trandsforming the transitory de facto power of the disenfranchised poor into more durable de jure political power.
+
+   Repression in Europe was costly as industrialization led to an economy based on physical and increasing human capital, which are easily destroyed by repression and conflict. Since physical capital is much harder to redistribute, elites in Western Europe found the prospect of democracy much less threatening. In Latin America and Burma, however, physical and human capital are relatively unimportant, and repression is easier and cheaper.
+
+   
