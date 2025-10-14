@@ -220,8 +220,18 @@ Two problems: reverse causality and omitted variable bias.
 
    The threat of social disorder was the main driving force behind the creation of democracy in Britain. The industrialization created rising inequality and urbanization increased the de facto power of the disenfranchised. They demand political rights and the changes in political institutions that would allocate future political power to them. These changes are the direct cause of changes in economic institutions, with major distributional implications, including the fall in inequality.
 
-   Democracy did not emerge from the voluntary acts of an enlightened elite, it was forced on the elite because of the threat of revolution. Democratization occured as a way of making credible commitments to the disenfranchised. It allocate de jure political power away from the elites to the masses. Democratization was a way of trandsforming the transitory de facto power of the disenfranchised poor into more durable de jure political power.
+   Democracy did not emerge from the voluntary acts of an enlightened elite; it was forced on the elite because of the threat of revolution. Democratization occurred as a way of making credible commitments to the disenfranchised. It allocates de jure political power away from the elites to the masses. Democratization was a way of transforming the transitory de facto power of the disenfranchised poor into more durable de jure political power.
 
    Repression in Europe was costly as industrialization led to an economy based on physical and increasing human capital, which are easily destroyed by repression and conflict. Since physical capital is much harder to redistribute, elites in Western Europe found the prospect of democracy much less threatening. In Latin America and Burma, however, physical and human capital are relatively unimportant, and repression is easier and cheaper.
 
+10. Future avenues
+
+    THe neoclassical growth model and its modern extentions cannot fully explain why countries differ in their equilibrium set of institutions. Need to search for deeper causes.
+
+    * Whether or not a society grows depends on how its economy is organized - on its economic institutions. The authors emphasized that a theory of why different countries have different economic institutions must be based on politics, on the structure of political power, and the nature of political institutions. - Mathematical models are needed.
+    * Both institutional persistence and institutional change are equilibrium outcomes. Both phenomena need to be analysed as part of the same dynamic quilibrium framework.
+    * It is important to understand the role of policy and interventions in changing the institutional equilibrium.
    
+    I present to you the ending paragraph of this great paper, hoping that social scientists can benefit from it:
+   
+<img width="714" height="318" alt="Screenshot 2025-10-14 at 3 15 13 PM" src="https://github.com/user-attachments/assets/b26da321-78ad-42e0-9e24-c8f2b34f06ea" />
