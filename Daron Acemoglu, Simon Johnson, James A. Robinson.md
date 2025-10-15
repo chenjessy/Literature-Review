@@ -177,6 +177,7 @@ Two problems: reverse causality and omitted variable bias.
    Some economic institutions will promote growth, but they will not necessarily benefit all groups in society. While alternative economic institutions may induce econmoic stagnation, but may nevertheless enrich some groups.
 
 7. The social conflict view in action
+   
    7.1 Labor Market
    
    The countries that had made the transition away from feudalism most completely developed most rapidly. The Black Death greatly increased the bargaining power of peasants and allowed them to negotiate and end feudal obligations. There is general agreement that the decline fo feudalism and the transformation fo European labor markets were intimately related to the political power of the key groups with opposing interests, the peasants and the lords. Whether the peasants or the lords had more  political power determined whether serfdom declined or became stronger.
@@ -193,7 +194,7 @@ Two problems: reverse causality and omitted variable bias.
 
    Feudalism did not end in England for incidental or ideological reasons, but because those who were controlled and impoverished by feudal regulations struggled to abolish them.
 
-8. A theory of institutions
+9. A theory of institutions
 
    8.1 Sources of political power
 
@@ -204,7 +205,7 @@ Two problems: reverse causality and omitted variable bias.
 
    Political institutions are an important source of political power. 
 
-9. The theory in action
+10. The theory in action
 
    9.1 Rise of constitutional monarchy and economic growth in early modern Europe
 
@@ -224,7 +225,7 @@ Two problems: reverse causality and omitted variable bias.
 
    Repression in Europe was costly as industrialization led to an economy based on physical and increasing human capital, which are easily destroyed by repression and conflict. Since physical capital is much harder to redistribute, elites in Western Europe found the prospect of democracy much less threatening. In Latin America and Burma, however, physical and human capital are relatively unimportant, and repression is easier and cheaper.
 
-10. Future avenues
+11. Future avenues
 
     THe neoclassical growth model and its modern extentions cannot fully explain why countries differ in their equilibrium set of institutions. Need to search for deeper causes.
 
