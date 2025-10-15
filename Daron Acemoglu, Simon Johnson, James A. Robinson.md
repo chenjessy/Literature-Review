@@ -50,7 +50,7 @@ Definition of good economic institutions: provide secure property rights for a b
    * link between religions and development-weber(1930) about the Protestant Reformation and the rise of Calvinism, emphasizes hard work, thrift, and saving.
    * particular cultural endowments-Banfield (1958), poverty of southern Italy due to the fact that people adopt a culture of "amoral familiarism"
 
-4. Institutions matter
+3. Institutions matter
    
 <img width="826" height="520" alt="Screenshot 2025-10-08 at 10 06 25 AM" src="https://github.com/user-attachments/assets/9bc7035f-5571-4805-a318-7af6d8536d8e" />
 
@@ -59,6 +59,7 @@ Two problems: reverse causality and omitted variable bias.
 <img width="859" height="515" alt="Screenshot 2025-10-08 at 10 26 27 AM" src="https://github.com/user-attachments/assets/fcb7b06b-4ce2-41de-acff-d457f225636f" />
 
   3.1 The Korean experiment
+  
   Both countries share the same geographic possibilities in terms of access to markets and the cost of transportation. And at the time of separation, North and South Korea had the same income per capita. So any differences in economic performance can plausibly be attributed to differences in institutions.
   
 <img width="815" height="487" alt="Screenshot 2025-10-08 at 11 26 24 AM" src="https://github.com/user-attachments/assets/fcec85e2-6c44-4233-85a1-c54038fee0a5" />
