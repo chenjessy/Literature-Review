@@ -10,3 +10,6 @@ Here is the list of papers or working papers, with the fields they belong to, th
 * Daron Acemoglu, Simon Johnson, James A. Robinson, Chapter 6 Institutions as a Fundamental Cause of Long-Run Growth, Editor(s): Philippe Aghion, Steven N. Durlauf, Handbook of Economic Growth, Elsevier, Volume 1, Part A, 2005, Pages 385-472, ISSN 1574-0684, ISBN 9780444520418, https://doi.org/10.1016/S1574-0684(05)01006-3.
 * Junyan Jiang, Muyang Zhang, Friends with benefits: Patronage networks and distributive politics in China, Journal of Public Economics, Volume 184, 2020.
 * Ruixue Jia, Gérard Roland, Yang Xie, A Theory of Power Structure and Institutional Compatibility: China versus Europe Revisited, Journal of the European Economic Association, Volume 22, Issue 3, June 2024, Pages 1275–1318, https://doi.org/10.1093/jeea/jvad050
+
+* Y. Joy Chen, Robin Kaiji Gong, Jinlin Li, Industrial policy in a new era: Government venture capital in the US–China trade war,
+Journal of Development Economics, 2026.
