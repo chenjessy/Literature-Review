@@ -4,4 +4,4 @@ Data: a novel dataset that links the uiniverse of Chinese VC funds to their GPs,
 
 Two measure of shock: 1) the industry-level exposure to trade war tariffs. 2) dummy variable of high exposure and low exposure.
 
-Two types of government VC funds:1)affiliated with the central government, more concerned with national strategic objectives. 2)affiliated with the local government, encouraging innovation and promote growth and transformation within jurisdiction.
+Two types of government VC funds: 1)affiliated with the central government, more concerned with national strategic objectives. 2)affiliated with the local government, encouraging innovation and promote growth and transformation within jurisdiction.
