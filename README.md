@@ -11,5 +11,8 @@ Here is the list of papers or working papers, with the fields they belong to, th
 * Junyan Jiang, Muyang Zhang, Friends with benefits: Patronage networks and distributive politics in China, Journal of Public Economics, Volume 184, 2020.
 * Ruixue Jia, Gérard Roland, Yang Xie, A Theory of Power Structure and Institutional Compatibility: China versus Europe Revisited, Journal of the European Economic Association, Volume 22, Issue 3, June 2024, Pages 1275–1318, https://doi.org/10.1093/jeea/jvad050
 
-* Y. Joy Chen, Robin Kaiji Gong, Jinlin Li, Industrial policy in a new era: Government venture capital in the US–China trade war,
-Journal of Development Economics, 2026.
+** Industrial Policy
+* Y. Joy Chen, Robin Kaiji Gong, Jinlin Li, Industrial policy in a new era: Government venture capital in the US–China trade war, Journal of Development Economics, 2026.
+
+** International Trade
+* Natalie Chen, Luciana Juvenal, Markups, quality, and trade costs, Journal of International Economics, 2022.
