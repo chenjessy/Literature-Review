@@ -1,8 +1,6 @@
 This paper shows that, based on revenue data, only the level of markup is potentially affected but not the estimate of the correlation between markups and firm-level characteristics or how markups change over time.
 
 They use the empirical model to verify whether exporters charge higher markups than their domestic counterparts in the same industry, and how markups change upon export entry.
-
-1. Recovering markups from production data
    
    Robert Hall(1986, 1988, 1990) suggests that industry-specific markups can be generated from production data with information on firm- or industry-level usage of inputs and total value of shipments. This approach is based on the production function framework, using the notion that under imperfect competition, input growth is associated with disproportional output growth. A markup higher than one can reject the perfect competitive model.
    
@@ -12,10 +10,12 @@ They use the empirical model to verify whether exporters charge higher markups t
 
    Manova and Zhang(2012) suggest higher export prices for richer and more distant markets based on Chinese transaction-level data, consistent with a model where firms adjust quality and markups across destinations in response to market toughness.
 
-   For exporting and non-exporting firms, their pricing strategies are different, which is responsible for the measured productivity upon export entry.
+   For exporting and non-exporting firms, their pricing strategies are different, which is responsible for the measured productivity upon export entry. This paper controls for the wine-year fixed effects, during which progress it also controls for the firm-year fixed effects as wine names are one-to-one matched with firm names.
 
 
 Conclusion:
 
 To estimate the relationship between markups and exporting behavior, this paper estimate the markups based on Hall(1986) and Olley&Pakes(1996). They can accommodate a large class of price-setting models and specifications of production function while recovering firm-specific markups and do not need the assumptions of CRS and measuring UCC. Their way of estimation shows the importance of controlling for the unobserved productivity shocks. They find that exporters have higher markups, consistent with the findings of the productivity premium for exporters. Also they provide an important reason for finding higher measured revenue prodctivity: higher markups.
+
+Remarks: This paper has a detailed illustration of the types of tariffs. Also, it illustrates several empirical settings detailedly. A good reference for students interested in international trade. 
    
